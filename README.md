@@ -1,13 +1,5 @@
 
-### 大家有问题尽量在这里提： https://gitee.com/wBekvam/vue-shop-admin/issues
 
-
-
-
-##  电商后台管理系统(前端项目）  [预览](http://huangzun.top:8888/)
-### 后端API接口源码  [下载](https://gitee.com/wBekvam/vueShop-api-server.git).  [接口API](./api接口文档.md)
-
-> 有问题的道友，欢迎加群讨论，将为您悉心解答：827923683
 
 ### 功能
 
